@@ -1,0 +1,120 @@
+html { 
+    align-items: center;
+    }
+   
+
+body {
+    margin-top:.1em;
+    margin-bottom:auto;
+    margin-left:auto;
+    padding:0;
+    background-image: url('water5.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right center;
+    background-size: auto; 
+    color: white;
+}
+
+h1 {
+    color: #B266FF;
+    /* margin-top: 4rem; */
+    font-family: Lucida, sans-serif;
+    text-transform: uppercase;
+    text-align: center;}
+ 
+  /* Style for nav specifies text properties */
+  nav {
+    
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 1em;
+        font-weight: bold;
+        text-align: center;
+        background-color: cyan;
+        border-radius:2em;
+        margin-top: 1.5em;
+        margin-left: 60em;
+    }    
+
+.p1 {
+    color: blue;
+    word-wrap: break-word;
+    text-align: center;
+    margin-left: 15em;
+    margin-right:15em;
+    font-family: verdana, sans-serif;
+    background-color: black;
+    border-top-left-radius: 4%;
+    border-top-right-radius: 4%;
+}
+.p2 {
+    color: purple;
+    word-wrap: break-word;
+    text-align: center;
+    margin-left: 15em;
+    margin-right:15em;
+    font-family: verdana, sans-serif;
+    background-color: black;
+}
+ .p3 {
+        color: pink;
+        word-wrap: break-word;
+        text-align: center;
+        margin-left: 15em;
+        margin-right:15em;
+        font-family: verdana, sans-serif;
+        background-color: black;
+ }   
+ .p4 {
+    color: blue;
+    word-wrap: break-word;
+    text-align: center;
+    margin-left: 15em;
+    margin-right:15em;
+    font-family: verdana, sans-serif;
+    background-color: black;
+}   	
+.p5 {
+    color: purple;
+    word-wrap: break-word;
+    text-align: center;
+    margin-left: 15em;
+    margin-right:15em;
+    font-family: verdana, sans-serif;
+    background-color: black;
+}   
+.p6 {
+    color: pink;
+    word-wrap: break-word;
+    text-align: center;
+    margin-left: 15em;
+    margin-right:15em;
+    font-family: verdana, sans-serif;
+    font-style: italic;    
+    background-color: black;
+
+}   
+
+.p7 {
+    color:cyan;
+    word-wrap: break-word;
+    text-align: center;
+    margin-left: 15em;
+    margin-right:15em;
+    font-family: verdana, sans-serif; 
+    background-color: black;}
+
+.p8 {
+    color:pink;
+    word-wrap: break-word;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 15em;
+    margin-right:15em;
+    font-family: verdana, sans-serif;
+    background-color: black; 
+    border-bottom-left-radius: 4%;
+    border-bottom-right-radius: 4%;
+}
+    
+

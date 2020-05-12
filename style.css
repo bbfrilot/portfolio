@@ -1,0 +1,96 @@
+html {
+    align-items: center;
+}    
+ 
+body {
+    margin-top:.1em;
+    margin-bottom:auto;
+    margin-left:auto;
+    padding:0;
+    background-image: url('water5.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right center;
+    background-size: auto;
+}
+nav {
+    font-family: Georgia, sans-serif;
+    font-size: 1em;
+    font-weight:bold;
+    text-align: center;
+    background-color: cyan;
+    border-radius:1em;
+    margin-top: 1.5em;
+    margin-left: 60em;
+     }
+     
+
+
+
+h1 {
+    color: #B266FF;
+    font-family: Lucida Bright, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    font-size:2.5em;
+}
+
+h2 {
+    color: pink;
+    font-family: Fira sans, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.0em;
+}
+
+h3 {
+    color:cyan;
+    font-family: Fira sans, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.5em;
+}
+
+.griditems {
+        display: grid;
+        grid-template-columns: auto;
+        padding-right: 10em;
+        padding-left:10em; 
+         }
+ 
+.item1 {
+         grid-column: 1;
+         grid-row: 1 ;
+        text-align: center;
+        color:cyan;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        
+    }
+ 
+.item2 {
+    grid-column: 2;
+    grid-row: 1;
+    text-align: center; 
+    color:cyan;
+    font-family: Fira sans, sans-serif;
+    font-weight: bold;
+}
+
+.item3 {
+    grid-column: 3;
+    grid-row: 1;
+    text-align: center;    
+    color: cyan;
+    font-family: Fira sans, sans-serif;
+    font-weight: bold;
+}
+    
+ 
+
+
+
+
+	
+		
